@@ -1,5 +1,5 @@
 # John Doe
-📍 City, State | 📞 (123) 456-7890 | 📧 john.doe@email.com | 🌐 linkedin.com/in/johndoe
+📍 City, State | 📞 (123) 456-7890 | 📧 john.doe@email.com | 🌐 [My Blue](https://www.linkedin.com/in/lazaroalsina/)
 ![Alt text](OIP-1168028153.jpg)
 ---
 
